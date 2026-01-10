@@ -1,7 +1,8 @@
 {
   "name": "suno-prompt-architect",
   "version": "1.0.0",
-  "description": "AI music production with Suno. Expert prompt engineering for transformative soundscapes.",
-  "author": {"name": "FrankX"},
+  "description": "Expert Suno AI prompt engineering for cinematic, transformative music creation",
+  "author": {"name": "FrankX", "email": "frank@frankx.ai"},
+  "homepage": "https://frankx.ai",
   "category": "music"
 }

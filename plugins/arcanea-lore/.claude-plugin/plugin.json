@@ -1,7 +1,8 @@
 {
   "name": "arcanea-lore",
   "version": "1.0.0",
-  "description": "Arcanea marketplace plugin",
+  "description": "World-building lore system with fantasy/consciousness terminology and mythology",
   "author": {"name": "FrankX"},
+  "homepage": "https://frankx.ai/arcanea",
   "category": "creative"
 }

@@ -1,7 +1,8 @@
 {
   "name": "arcanea-design",
   "version": "1.0.0",
-  "description": "Arcanea marketplace plugin",
+  "description": "Design system with glassmorphic components and consciousness-aligned aesthetics",
   "author": {"name": "FrankX"},
-  "category": "creative"
+  "homepage": "https://frankx.ai/arcanea",
+  "category": "design"
 }

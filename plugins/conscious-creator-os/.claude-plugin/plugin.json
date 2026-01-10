@@ -1,7 +1,8 @@
 {
   "name": "conscious-creator-os",
   "version": "1.0.0",
-  "description": "Arcanea marketplace plugin",
+  "description": "Operating system for AI-empowered creators with multi-agent orchestration",
   "author": {"name": "FrankX"},
-  "category": "creative"
+  "homepage": "https://frankx.ai",
+  "category": "productivity"
 }

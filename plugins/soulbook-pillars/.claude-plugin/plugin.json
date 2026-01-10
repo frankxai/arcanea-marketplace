@@ -1,7 +1,8 @@
 {
   "name": "soulbook-pillars",
   "version": "1.0.0",
-  "description": "Arcanea marketplace plugin",
-  "author": {"name": "FrankX"},
-  "category": "creative"
+  "description": "7 Pillars of Conscious Living: Energy, Mind, Soul, Craft, Capital, Circle, Legacy",
+  "author": {"name": "FrankX", "email": "frank@frankx.ai"},
+  "homepage": "https://frankx.ai/soulbook",
+  "category": "personal-development"
 }

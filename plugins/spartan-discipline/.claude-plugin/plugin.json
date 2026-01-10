@@ -1,7 +1,8 @@
 {
   "name": "spartan-discipline",
   "version": "1.0.0",
-  "description": "Arcanea marketplace plugin",
+  "description": "Warrior philosophy and discipline framework for peak performance",
   "author": {"name": "FrankX"},
-  "category": "creative"
+  "homepage": "https://frankx.ai",
+  "category": "personal-development"
 }
