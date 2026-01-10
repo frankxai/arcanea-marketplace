@@ -1,0 +1,107 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "arcanea",
+  "description": "Arcanea: AI-powered creative intelligence plugins for conscious creators. Includes FrankX brand voice, Soulbook transformation framework, and Arcanea lore systems.",
+  "owner": {
+    "name": "FrankX",
+    "email": "frank@frankx.ai"
+  },
+  "plugins": [
+    {
+      "name": "frankx-brand",
+      "description": "FrankX brand voice, style guide, and content creation framework. Transforms AI into a conscious creator's voice.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/frankx-brand",
+      "category": "creative"
+    },
+    {
+      "name": "frankx-content",
+      "description": "Content creation engine for articles, social media, and marketing. Golden Age creator philosophy.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/frankx-content",
+      "category": "creative"
+    },
+    {
+      "name": "soulbook-core",
+      "description": "Soulbook transformation framework: consciousness evolution, 7 pillars of living, personal growth system.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/soulbook-core",
+      "category": "personal-development"
+    },
+    {
+      "name": "soulbook-pillars",
+      "description": "7 Pillars of Conscious Living: Energy, Mind, Relationships, Purpose, Wealth, Creativity, Legacy.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/soulbook-pillars",
+      "category": "personal-development"
+    },
+    {
+      "name": "suno-prompt-architect",
+      "description": "AI music production with Suno. Crafts professional prompts for transformative soundscapes and commercial tracks.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/suno-prompt-architect",
+      "category": "music"
+    },
+    {
+      "name": "vibe-os",
+      "description": "Vibe OS music session framework. State-change music for focused work, creative flow, and transformation rituals.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/vibe-os",
+      "category": "music"
+    },
+    {
+      "name": "arcanea-lore",
+      "description": "Arcanea world-building lore system. Fantasy/consciousness terminology, mythology, and narrative frameworks.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/arcanea-lore",
+      "category": "creative"
+    },
+    {
+      "name": "arcanea-design",
+      "description": "Arcanea design system and UI components. Premium interfaces with consciousness-aligned aesthetics.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/arcanea-design",
+      "category": "design"
+    },
+    {
+      "name": "golden-age-author",
+      "description": "Book writing system with 9-author council. Research-driven methodology, voice modeling, iterative refinement.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/golden-age-author",
+      "category": "writing"
+    },
+    {
+      "name": "conscious-creator-os",
+      "description": "Complete operating system for AI-empowered creators. Multi-agent orchestration, skill activation, workflow automation.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/conscious-creator-os",
+      "category": "productivity"
+    },
+    {
+      "name": "oracle-intelligence",
+      "description": "Oracle Cloud Infrastructure expertise. Enterprise AI, database optimization, cloud architecture patterns.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/oracle-intelligence",
+      "category": "enterprise"
+    },
+    {
+      "name": "spartan-discipline",
+      "description": "Spartan warrior philosophy and discipline framework. Laconic wisdom, unbreakable habits, peak performance.",
+      "version": "1.0.0",
+      "author": {"name": "FrankX"},
+      "source": "./plugins/spartan-discipline",
+      "category": "personal-development"
+    }
+  ]
+}

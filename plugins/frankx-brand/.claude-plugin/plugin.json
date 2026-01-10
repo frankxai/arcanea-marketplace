@@ -1,0 +1,11 @@
+{
+  "name": "frankx-brand",
+  "version": "1.0.0",
+  "description": "FrankX brand voice, style guide, and content creation framework. Transforms AI into a conscious creator's voice.",
+  "author": {
+    "name": "FrankX",
+    "email": "frank@frankx.ai"
+  },
+  "homepage": "https://frankx.ai",
+  "category": "creative"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "golden-age-author",
+  "version": "1.0.0",
+  "description": "Book writing system with 9-author council methodology for world-class manuscripts.",
+  "author": {"name": "FrankX"},
+  "category": "writing"
+}
