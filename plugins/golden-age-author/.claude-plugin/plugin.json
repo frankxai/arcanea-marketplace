@@ -3,6 +3,5 @@
   "version": "1.0.0",
   "description": "Book writing system with 9-author council for world-class manuscripts",
   "author": {"name": "FrankX"},
-  "homepage": "https://frankx.ai",
-  "category": "writing"
+  "homepage": "https://frankx.ai"
 }
