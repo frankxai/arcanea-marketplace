@@ -3,6 +3,5 @@
   "version": "1.0.0",
   "description": "Operating system for AI-empowered creators with multi-agent orchestration",
   "author": {"name": "FrankX"},
-  "homepage": "https://frankx.ai",
-  "category": "productivity"
+  "homepage": "https://frankx.ai"
 }
